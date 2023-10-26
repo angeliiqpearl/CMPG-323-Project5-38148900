@@ -1,9 +1,27 @@
 # CMPG-323-Project5-38148900
-PowerBI
+**Objective**: To create a report for EcoPower Logistics to help them monitor their orders, product sales, and customer status.
 
+**Report**: The report is four pages long and includes the following sections:
 
+- High Level: Provides an overview of key metrics, such as total orders, revenue, and customer satisfaction.
+- Order Monitoring: Tracks the status of all orders, including order date, ship date, and delivery date.
+- Product Monitoring: Tracks the sales performance of each product, including units sold, revenue generated, and profit margin.
+- Customer Monitoring: Tracks the activity and status of each customer, including order history, payment history, and customer satisfaction rating.
+  
+**Features**: The report includes the following features:
 
-REFERENCE LIST
+- Interactive filtering: Users can filter the report by customer ID, order ID, and product category.
+- Data visualization: The report uses a variety of data visualization techniques, such as charts, graphs, and maps, to present information in a clear and concise way.
+- Interactivity: The report is interactive, meaning that users can select data in one visual to filter other visuals on the page.
+  
+**Benefits**: The report provides the following benefits to EcoPower Logistics:
+
+- Improved visibility: The report gives EcoPower Logistics a clear view of their orders, product sales, customer status, and business operations.
+- Data-driven decision making: The report provides EcoPower Logistics with the data they need to make informed decisions about their business.
+- Increased efficiency: The report helps EcoPower Logistics to identify and address bottlenecks in their business processes.
+
+  
+### References:
 
 1.	Bennett, T. (2023) 'Direct Database Access vs. REST APIs: Pros and Cons for Application Connectivity - DreamFactory Software- Blog,' DreamFactory Software- Blog - API Management, Enterprise Integrations, Data Security and More, 18 May. https://blog.dreamfactory.com/direct-database-access-vs-rest-apis-pros-and-cons-for-application-connectivity/#:~:text=Direct%20Database%20Access%20and%20REST%20APIs%20are%20two%20popular%20methods,prototypes%2C%20but%20has%20security%20concerns. 
 
